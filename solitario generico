@@ -1,0 +1,37 @@
+{
+  "app": "gm-dashboard",
+  "version": 1,
+  "lang": "es",
+  "theme": "medieval",
+  "snap": false,
+  "tables": [
+    {
+      "name": "Localizaciones",
+      "type": "text",
+      "x": 20,
+      "y": 20,
+      "items": []
+    },
+    {
+      "name": "PNJs",
+      "type": "text",
+      "x": 330,
+      "y": 20,
+      "items": []
+    },
+    {
+      "name": "Objetos",
+      "type": "text",
+      "x": 640,
+      "y": 20,
+      "items": []
+    },
+    {
+      "name": "Hilos abiertos",
+      "type": "text",
+      "x": 950,
+      "y": 20,
+      "items": []
+    }
+  ]
+}
